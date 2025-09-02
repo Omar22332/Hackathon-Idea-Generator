@@ -1,0 +1,5 @@
+{
+  "name": "Hackathon Idea Generator",
+  "description": "An AI-powered application to generate innovative hackathon ideas, complete with project details and suggested team roles, using the Gemini API.",
+  "requestFramePermissions": []
+}
